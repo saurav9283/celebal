@@ -1,0 +1,11 @@
+
+.Footer {
+    background-color: grey;
+    margin-top:5%;
+    /* height: 0; */
+}
+
+.Footer p{
+    background-color: antiquewhite;
+    line-height: 80px;
+}

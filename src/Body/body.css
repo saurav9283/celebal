@@ -1,0 +1,12 @@
+.Body{
+    background-color:rgb(191, 209, 224);
+    width: 500px;
+    height: 300px;
+    margin-left: 400px;
+    margin-top: 30px;
+}
+
+.form input{
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
